@@ -1,0 +1,8 @@
+{
+  "project_name": "IOBase",
+  "group_id": "nl.iobyte",
+  "artifact_id": "iobase",
+  "version": "1.0",
+  "java_version": "11",
+  "modules": ["basic", "database"]
+}
